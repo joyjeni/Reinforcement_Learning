@@ -14,4 +14,4 @@ a-Action
 
 R-Reward
 
-<img src="https://render.githubusercontent.com/render/math?math=\gamma"> - Discount
+<img src="https://render.githubusercontent.com/render/math?math=\Gamma"> - Discount
