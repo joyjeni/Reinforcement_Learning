@@ -14,16 +14,18 @@ a-Action
 
 R-Reward
 
-<img src="https://render.githubusercontent.com/render/math?math=\documentclass[a4paper,12pt]{article}
-\usepackage{amssymb,mathtools}
-\begin{document}
-\[\underbrace{\text{New}Q(s,a)}_{\scriptstyle\text{New Q-Value}}=Q(s,a)+\mkern-34mu\underset{\text{New Q-Value}}{\underset{\Bigl|}{\alpha}}\mkern-30mu[\underbrace{R(s,a)}_{\scriptstyle\text{Reward}}+\mkern-30mu\underset{\text{Discount rate}}{\underset{\Biggl|}{\gamma}}\mkern-75mu\overbrace{\max Q'(s',a')}^{\scriptstyle\substack{\text{Maximum predicted reward, given} \\ \text{new state and all possible actions}}}\mkern-45mu-Q(s,a)]\]
-\end{document}"> - Discount
-
+<img src="https://render.githubusercontent.com/render/math?math=\gamma"> - Discount factor 
 ### The Bellman Equation
 
 
 <img src="https://render.githubusercontent.com/render/math?math=V(s)=max_{a} ( {R(s,a)} %2B {\gamma V(s')})">
+
+V(s) - Current State
+R(s,a) - Reward for current state action
+s' - New state
+
+
+max of every four state - Left, Right, Up and Down
 
 
 
