@@ -8,7 +8,10 @@ Rewards are used to infer optimal actions to correspond with observation states.
 
 Concepts:
 
-s-State
+s-State 
+
 a-Action
+
 R-Reward
-$\gamma$ - Discount
+
+\gammma - Discount
