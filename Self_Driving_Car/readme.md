@@ -13,8 +13,4 @@ s-State
 a-Action
 
 R-Reward
-
-\begin{equation}
-\gamma
-\end{equation}
-
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
