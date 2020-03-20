@@ -15,3 +15,8 @@ a-Action
 R-Reward
 
 <img src="https://render.githubusercontent.com/render/math?math=\Gamma"> - Discount
+
+### The Bellman Equation
+
+
+<img src="https://render.githubusercontent.com/render/math?math=V(s)=max(R(s,a)+\gammaV(s'))"> 
