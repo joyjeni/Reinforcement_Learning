@@ -19,4 +19,4 @@ R-Reward
 ### The Bellman Equation
 
 
-<img src="https://render.githubusercontent.com/render/math?math=V(s)=max(R(s,a)+\gammaV(s'))"> 
+<img src="https://render.githubusercontent.com/render/math?math=V(s)=max<sub> a(R(s,a)+ \gamma V(s'))"> 
