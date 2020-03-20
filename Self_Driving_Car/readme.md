@@ -18,5 +18,8 @@ R-Reward
 
 ### The Bellman Equation
 
+\begin{equation}
+V(s)=max_{a} ( {R(s,a)} + {\gamma V(s')})
+\end{equation}
 
-<img src="https://render.githubusercontent.com/render/math?math={V(s)=max_{a} ( {R(s,a)} $$+$$ {\gamma V(s')})}"> 
+<img src="https://render.githubusercontent.com/render/math?math={V(s)=max_{a} ( {R(s,a)}  {\gamma V(s')})}"> 
