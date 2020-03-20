@@ -11,4 +11,4 @@ Concepts:
 s-State
 a-Action
 R-Reward
-\gamma - Discount
+$\gamma$ - Discount
