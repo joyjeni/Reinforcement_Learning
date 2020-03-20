@@ -14,4 +14,7 @@ a-Action
 
 R-Reward
 
-$\gammma$ - Discount
+\begin{equation}
+\gamma
+\end{equation}
+
