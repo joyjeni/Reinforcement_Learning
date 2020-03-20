@@ -29,3 +29,7 @@ max of every four state - Left, Right, Up and Down
 
 
 
+
+### References
+1. https://www.rand.org/content/dam/rand/pubs/papers/2008/P550.pdf
+
