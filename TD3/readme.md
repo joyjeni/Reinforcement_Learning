@@ -1,5 +1,8 @@
 Step 1: We initialize the Experience Replay memory
 
+* Initialize the Experience Replay memory. This will store the past transitions from which it learns the Q-values.
+
+
 Step 2: We build one neural network for the Actor model and one neural network for the Actor target
 Step 3: We build two neural networks for the two Critic models and two neural networks for the two Critic targets
 ## Training 
@@ -29,3 +32,5 @@ Step 14: Still once every two iterations, we update the weights of the Actor tar
 Step 15: Still once every two iterations, we update the weights of the Critic target by polyak averaging
 
  
+## Reference
+1. Deep Reinforcement Learning: Twin Delayed DDPG Algorithm,https://www.mlq.ai/deep-reinforcement-learning-twin-delayed-ddpg-algorithm/
