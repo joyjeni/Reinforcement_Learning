@@ -1,7 +1,7 @@
 Step 1: We initialize the Experience Replay memory
 
 * Initialize the Experience Replay memory. This will store the past transitions from which it learns the Q-values.
-[step1](https://i.imgur.com/oap1vFv.png)
+![step1](https://i.imgur.com/oap1vFv.png)
 
 
 Step 2: We build one neural network for the Actor model and one neural network for the Actor target
