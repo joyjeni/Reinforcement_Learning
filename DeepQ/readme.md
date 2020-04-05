@@ -21,7 +21,7 @@ Terminal state is unique. Ensures sum over rewards finite. <img src="https://ren
 Not all tasks are episodic!
 
 
-<img src="https://render.githubusercontent.com/render/math?math=\sum_{t=0}^\infty R_t->\infty">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{t=0}^\infty R_t \to \infty">
 
 <img src="https://render.githubusercontent.com/render/math?math=">
 
