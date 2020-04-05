@@ -22,8 +22,16 @@ Not all tasks are episodic!
 
 
 <img src="https://render.githubusercontent.com/render/math?math=\sum_{t=0}^\infty R_t \to \infty">
+Fix by discounting factor <img src="https://render.githubusercontent.com/render/math?math=\gamma">
 
-<img src="https://render.githubusercontent.com/render/math?math=">
+
+<img src="https://render.githubusercontent.com/render/math?math=0 \leq \gamma \leq 1">
+if 
+<img src="https://render.githubusercontent.com/render/math?math= \gamma \to 1 "> Far sighted
+
+<img src="https://render.githubusercontent.com/render/math?math= \gamma \to 0"> Myopic
+
+<img src="https://render.githubusercontent.com/render/math?math=0.95 \led \gamma \leq 0.99">
 
 
 ## References
