@@ -10,5 +10,11 @@ Actions cause state transitions
 
 <img src="https://render.githubusercontent.com/render/math?math=p(s',r|a,s) \neq 1">
 
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{s',r}p(s',r|a,s)=1">
 
 
+
+
+
+## References
+1. Modern Reinforcement Learning: Deep Q Learning in PyTorch, Phil Tabor, Udemy
