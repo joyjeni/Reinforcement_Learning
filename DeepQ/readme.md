@@ -11,9 +11,13 @@ Actions cause state transitions
 <img src="https://render.githubusercontent.com/render/math?math=p(s',r|a,s) \neq 1">
 
 <img src="https://render.githubusercontent.com/render/math?math=\sum_{(s',r)} p(s',r|a,s)=1">
+Probabilities define our dynamics
+
+## Episodic Game Play
+Terminal state is unique. Ensures sum over rewards finite. <img src="https://render.githubusercontent.com/render/math?math=G_T=0">
 
 
-
+<img src="https://render.githubusercontent.com/render/math?math=">
 
 
 ## References
