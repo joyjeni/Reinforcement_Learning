@@ -8,7 +8,7 @@
 ## Probabilistic Transitions
 Actions cause state transitions
 
-<img src="https://render.githubusercontent.com/render/math?math=p(s',r|a,s) != 1">
+<img src="https://render.githubusercontent.com/render/math?math=p(s',r|a,s) \not equal 1">
 
 
 
