@@ -16,6 +16,12 @@ Probabilities define our dynamics
 ## Episodic Game Play
 Terminal state is unique. Ensures sum over rewards finite. <img src="https://render.githubusercontent.com/render/math?math=G_T=0">
 
+## Reward Discounting
+
+Not all tasks are episodic!
+
+
+<img src="https://render.githubusercontent.com/render/math?math=\sum{t=0}^\infinity R_t->\infinity">
 
 <img src="https://render.githubusercontent.com/render/math?math=">
 
