@@ -37,7 +37,7 @@ if ,<img src="https://render.githubusercontent.com/render/math?math=\gamma \to 1
 ## The Policy
 Mapping of states to actions. It can be proabilistic
 
-\Pi - Policy
+\pi - Policy
 
 
 <img src="https://render.githubusercontent.com/render/math?math=">
