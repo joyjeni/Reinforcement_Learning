@@ -34,6 +34,10 @@ if ,<img src="https://render.githubusercontent.com/render/math?math=\gamma \to 1
 
 <img src="https://render.githubusercontent.com/render/math?math=G_t=R_{t%2B 1} %2B \gamma R_{t%2B 2} %2B \gamma^2R_{t %2B 3}=\sum_{k=0}^\infty \gamma ^ k R_{t %2B k %2B 1}">
 
+## The Policy
+Mapping of states to actions. It can be proabilistic
+
+\Pi - Policy
 
 
 <img src="https://render.githubusercontent.com/render/math?math=">
