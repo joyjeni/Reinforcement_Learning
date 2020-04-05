@@ -43,6 +43,12 @@ Mapping of states to actions. It can be proabilistic. Policy tells how agent wil
 
 <img src="https://render.githubusercontent.com/render/math?math=\Pi(s,a) \to "> Probability of selecting a in s
 
+## Value Function
+Markov Property + Policy -> Value Function
+
+
+
+
 
 <img src="https://render.githubusercontent.com/render/math?math=">
 
