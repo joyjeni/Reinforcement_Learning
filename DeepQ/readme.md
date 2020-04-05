@@ -32,7 +32,7 @@ if ,<img src="https://render.githubusercontent.com/render/math?math=\gamma \to 1
 
 <img src="https://render.githubusercontent.com/render/math?math=0.95 \leq \gamma \leq 0.99">
 
-<img src="https://render.githubusercontent.com/render/math?math=G_t=R_{t+1} + \gammaR_{t+2} + \gamma^2R{t+3}=\sum_{k=0}^\infty \gamma^kR{t+k+1}">
+<img src="https://render.githubusercontent.com/render/math?math=G_t=R_{t+1} + \gamma R_{t+2} + \gamma^2R_{t+3}=\sum_{k=0}^\infty \gamma ^ k R_{t+k+1}">
 
 
 
