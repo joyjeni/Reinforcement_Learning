@@ -1,0 +1,5 @@
+* **Agent** learns and makes decisions
+* Environment is what changes and its representation
+* Rewards almost always part of environment
+* Set of all possible states **state space**
+* Set of all possible actions ** action space **
