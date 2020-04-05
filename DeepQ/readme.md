@@ -1,9 +1,9 @@
-* **Agent** learns and makes decisions
+* **Agent** learns and makes decisions and maximizes rewards over time
 * **Environment** is what changes and its representation
 * **Rewards** almost always part of environment
 * Set of all possible states **state space**
 * Set of all possible actions **action space**
-* **Markov Decision Process** state depends only on previous state and action
+* **Markov Decision Process** state depends only on previous state and action and governed by probability distribution
 
 ## Probabilistic Transitions
 Actions cause state transitions
@@ -35,7 +35,7 @@ if ,<img src="https://render.githubusercontent.com/render/math?math=\gamma \to 1
 <img src="https://render.githubusercontent.com/render/math?math=G_t=R_{t%2B 1} %2B \gamma R_{t%2B 2} %2B \gamma^2R_{t %2B 3}=\sum_{k=0}^\infty \gamma ^ k R_{t %2B k %2B 1}">
 
 ## The Policy
-Mapping of states to actions. It can be proabilistic
+Mapping of states to actions. It can be proabilistic. Policy tells how agent will act in some state
 
 \pi - Policy
 
