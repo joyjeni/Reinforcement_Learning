@@ -37,7 +37,11 @@ if ,<img src="https://render.githubusercontent.com/render/math?math=\gamma \to 1
 ## The Policy
 Mapping of states to actions. It can be proabilistic. Policy tells how agent will act in some state
 
-\pi - Policy
+
+<img src="https://render.githubusercontent.com/render/math?math=\Pi"> - Policy
+
+
+<img src="https://render.githubusercontent.com/render/math?math=\Pi(s,a) \to "> Probability of selecting a in s
 
 
 <img src="https://render.githubusercontent.com/render/math?math=">
