@@ -26,13 +26,13 @@ Fix by discounting factor <img src="https://render.githubusercontent.com/render/
 
 
 <img src="https://render.githubusercontent.com/render/math?math=0 \leq \gamma \leq 1">
-if 
-<img src="https://render.githubusercontent.com/render/math?math= \gamma \to 1 "> Far sighted
+if <img src="https://render.githubusercontent.com/render/math?math=\gamma \to 1 "> Far sighted ,
 
-<img src="https://render.githubusercontent.com/render/math?math= \gamma \to 0"> Myopic
+<img src="https://render.githubusercontent.com/render/math?math=\gamma \to 0"> Myopic
 
 <img src="https://render.githubusercontent.com/render/math?math=0.95 \led \gamma \leq 0.99">
 
+<img src="https://render.githubusercontent.com/render/math?math=">
 
 ## References
 1. Modern Reinforcement Learning: Deep Q Learning in PyTorch, Phil Tabor, Udemy
