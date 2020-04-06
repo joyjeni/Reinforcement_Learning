@@ -46,7 +46,25 @@ Mapping of states to actions. It can be proabilistic. Policy tells how agent wil
 ## Value Function
 Markov Property + Policy -> Value Function
 
+## Q Learning Algorithm
 
+1. Initialize Q for all states s and actions a
+2. Initialize 
+<img src="https://render.githubusercontent.com/render/math?math=\alpha = 0.001, \gamma = 0.9, \epsilon_max = 1.0 , \epsilon_min = 0.01">
+3. Repeat for n_episodes
+      * Initialize state s
+      * For each step of episode
+          Choose a with epsilon-greedy
+          Perform a, get new state s' and reward r
+          
+          Q(s,a) =Q(s,a) %2B \gamma(r %2B \gamma max Q(s',a_max)-Q(s,a))
+          s=s'
+ * Agent should be a class
+ * Q is a dictionary
+ * Decrement epsilon over time
+ * Seperate files
+ * Plot average score over 100 games
+ * Run for 500,000 total games
 
 
 
