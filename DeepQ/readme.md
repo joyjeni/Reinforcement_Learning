@@ -57,7 +57,7 @@ Markov Property + Policy -> Value Function
           Choose a with epsilon-greedy
           Perform a, get new state s' and reward r
           
-          <img src="https://render.githubusercontent.com/render/math?mathQ(s,a) =Q(s,a) %2B \gamma(r %2B \gamma max Q(s',a_max)-Q(s,a))">
+          <img src="https://render.githubusercontent.com/render/math?math=Q(s,a) =Q(s,a) %2B \gamma(r %2B \gamma max Q(s',a_max)-Q(s,a))">
           s=s'
  * Agent should be a class
  * Q is a dictionary
