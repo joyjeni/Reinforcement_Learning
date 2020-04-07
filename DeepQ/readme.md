@@ -14,7 +14,7 @@ Actions cause state transitions
 Probabilities define our dynamics
 
 ## Episodic Game Play
-Terminal state is unique. Ensures sum over rewards finite. <img src="https://render.githubusercontent.com/render/math?math=G_T=0">
+Terminal state is unique. Ensures sum over rewards finite. <img src="https://render.githubusercontent.com/render/math?=math=G_T=0">
 
 ## Reward Discounting
 
