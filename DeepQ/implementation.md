@@ -12,5 +12,4 @@
 8. Epsilon greedy action selection use tensor.item()
 9. Decrement epsilon
 10. Do zero grad
-<img src="https://render.githubusercontent.com/render/math?math=
-Q(s,a)=Q(s,a) %2B \alpha (r %2B \gamma max Q(s',a_max)-Q(s,a))">
+<img src="https://render.githubusercontent.com/render/math?math=Q(s,a)=Q(s,a) %2B \alpha (r %2B \gamma max Q(s',a_max) -Q(s,a))">
