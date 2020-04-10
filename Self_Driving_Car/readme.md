@@ -32,5 +32,7 @@ max of every four state - Left, Right, Up and Down
 
 ### References
 1. https://medium.com/code-heroku/building-a-crawling-robot-with-q-learning-251e2550d824
-1. https://www.rand.org/content/dam/rand/pubs/papers/2008/P550.pdf
+2. https://www.rand.org/content/dam/rand/pubs/papers/2008/P550.pdf
+3. Prioritized Experience Replay, https://arxiv.org/abs/1511.05952
+
 
