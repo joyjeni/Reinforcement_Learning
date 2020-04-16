@@ -13,7 +13,7 @@
 8. pos - position of car w.r.to last position and velocity
 9. signal - 1 full sand or full density and receives heavy penalty
 10. #### Orientation 
-* Towards goal : 0^0
-* Left  : - 45 ^0
-* Right : %2B 45 ^0
+* Towards goal : 0<sup>0
+* Left  : - 45 <sup>0
+* Right : %20 45 <sup>0
 
