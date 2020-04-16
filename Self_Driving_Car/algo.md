@@ -10,4 +10,10 @@
 6. scores[] - Array of last_reward. To plot Mean square reward wrt time
 
 7. global sand [] - Its map size.  Initialise 1 if sand and 0 otherwise
-8. 
+8. pos - position of car w.r.to last position and velocity
+9. signal - 1 full sand or full density and receives heavy penalty
+10. #### Orientation 
+* Towards goal : 0^0
+* Left  : - 45 ^0
+* Right : %2B 45 ^0
+
