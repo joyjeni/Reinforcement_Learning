@@ -43,3 +43,4 @@ Step 15: Still once every two iterations, we update the weights of the Critic ta
 1. Deep Reinforcement Learning: Twin Delayed DDPG Algorithm,https://www.mlq.ai/deep-reinforcement-learning-twin-delayed-ddpg-algorithm/
 
 2. https://github.com/safal-singh/TD3PG-Reinforcement-Learning
+3. DDPG, https://www.mlq.ai/deep-reinforcement-learning-twin-delayed-ddpg-algorithm/
