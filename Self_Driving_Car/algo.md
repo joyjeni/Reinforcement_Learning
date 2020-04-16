@@ -15,5 +15,5 @@
 10. #### Orientation 
 * Towards goal : 0<sup>0
 * Left  : - 45 <sup>0
-* Right : %20 45 <sup>0
+* Right : + 45 <sup>0
 
