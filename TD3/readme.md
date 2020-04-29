@@ -45,3 +45,7 @@ Step 15: Still once every two iterations, we update the weights of the Critic ta
 2. https://github.com/safal-singh/TD3PG-Reinforcement-Learning
 3. DDPG, https://www.mlq.ai/deep-reinforcement-learning-twin-delayed-ddpg-algorithm/
 4. TD3, https://arxiv.org/pdf/1802.09477.pdf
+5. TD3 Bipedel walker, https://github.com/PacktPublishing/Reinforcement-Learning-Algorithms-with-Python/blob/master/Chapter08/TD3.py
+6. All policy gradients, https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
+7. DPG, http://proceedings.mlr.press/v32/silver14.pdf.
+
