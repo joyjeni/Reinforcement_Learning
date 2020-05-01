@@ -6,4 +6,4 @@
 3. Bipedal Walker, https://github.com/nikhilbarhate99/TD3-PyTorch-BipedalWalker-v2/blob/master/train.py
 4. https://github.com/MrSyee/pg-is-all-you-need/blob/master/04.TD3.ipynb
 5. https://mc.ai/td3-learning-to-run-with-ai/
-
+6.https://github.com/Ullar-Kask/Udacity-DRLND/blob/master/p2/src/ddpg_agent.py
