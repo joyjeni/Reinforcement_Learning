@@ -7,3 +7,4 @@
 4. https://github.com/MrSyee/pg-is-all-you-need/blob/master/04.TD3.ipynb
 5. https://mc.ai/td3-learning-to-run-with-ai/
 6.https://github.com/Ullar-Kask/Udacity-DRLND/blob/master/p2/src/ddpg_agent.py
+7. https://github.com/ikostrikov/pytorch-ddpg-naf/blob/master/main.py
