@@ -1,6 +1,8 @@
 
 This is an enhancement from Self Driving Car implemented using DQN algorithm. https://github.com/joyjeni/Reinforcement_Learning/tree/master/dqn_sdc
 
+[![DQN](https://i.imgur.com/1AY6Bl5.png)](https://youtu.be/K0xr8qtZzVA)
+
 
 ### SDC implementation using Twin Delayed Deep Deterministic Model TD3
 
