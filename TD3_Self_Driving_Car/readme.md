@@ -19,7 +19,7 @@ Step 4: sample a batch of transitions (s, s’, a, r) from the memory say 1000 t
 
 Step 5: From the next state s’, the Actor target plays the next action a’. It outputs logits of 3 actions 
 
-Step 6: We add Gaussian noise to this next action a’ and we clamp it in a range of values (rewards) supported by the environment
+Step 6: We add Gaussian noise to this next action a’ and we clamp it in a range of values (policy) supported by the environment.  It tells us the difference between our new and old policy and clip/clamp this ratio from 0.8 to 1.2. Doing that will ensure that our policy update will not be too large.
 
 Step 7: The two Critic targets take each the couple (s’, a’) as input and return two Q-values Qt1(s’,a’) and Qt2(s’,a’) as outputs. Use variational auto encoder logic to compute difference in two loss values trying to compete with each other.
 
@@ -31,7 +31,7 @@ Step 10: The two Critic models take each the couple (s, a) as input and return t
 
 Step 11: We compute the loss coming from the two Critic models: Critic Loss = MSE_Loss(Q1(s,a), Qt) + MSE_Loss(Q2(s,a), Qt)
 
-Step 12: We backpropagate this Critic loss and update the parameters of the two Critic models with a SGD optimizer
+Step 12: We backpropagate this Critic loss and update the parameters of the two Critic models with a SGD optimizer. The idea was by taking gradient ascent step on this function (which is equivalent of taking gradient descent of the negative of this function) we will push our agent to take actions that lead to higher rewards and avoid bad actions.
 
 Step 13: Once every two iterations, we update our Actor model by performing gradient ascent on the output of the first Critic model. Thatsy its called ** Twin Delayed ** Deep Deterministic Model 
 
